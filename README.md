@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm install base-64
+npm install @prashoonb/base64-encoder-decoder
 ```
 
 ## API

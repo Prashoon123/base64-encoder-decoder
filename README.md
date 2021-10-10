@@ -1,4 +1,4 @@
-# base64-encoder-decoder
+# @prashoonb/base64-encoder-decoder
 
 ## Installation
 
@@ -40,4 +40,4 @@ console.log(text);
 
 ## License
 
-_base64-encoder-decoder_ is available under the [MIT](https://opensource.org/licenses/MIT) license.
+_@prashoonb/base64-encoder-decoder_ is available under the [MIT](https://opensource.org/licenses/MIT) license.

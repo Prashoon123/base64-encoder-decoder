@@ -27,7 +27,7 @@ This function takes a base64-encoded string (the `input` parameter) and decodes 
 
 ```js
 const encoded = "Zm9vIMKpIGJhciDwnYyGIGJheg==";
-const text = utf8.decode(bytes);
+const text = base64.decode(bytes);
 console.log(text);
 // → "foo © bar 𝌆 baz"
 ```

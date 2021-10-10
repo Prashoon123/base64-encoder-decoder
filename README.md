@@ -41,3 +41,7 @@ console.log(text);
 ## License
 
 _@prashoonb/base64-encoder-decoder_ is available under the [MIT](https://opensource.org/licenses/MIT) license.
+
+## Credits
+
+Inspired by [Mathias Bynens](https://mathiasbynens.be/)' _base64_ package.

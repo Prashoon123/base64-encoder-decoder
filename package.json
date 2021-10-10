@@ -1,0 +1,32 @@
+{
+  "name": "@prashoonb/base64-encoder-decoder",
+  "version": "1.0.0",
+  "description": "Helps to encode a string to base64 and decode a base64 string to normal string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashoon123/base64-encoder-decoder.git"
+  },
+  "keywords": [
+    "base64",
+    "encoding",
+    "decoding",
+    "encoder",
+    "decoder",
+    "utf8",
+    "string"
+  ],
+  "author": "Prashoon Bhattacharjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prashoon123/base64-encoder-decoder/issues"
+  },
+  "homepage": "https://github.com/Prashoon123/base64-encoder-decoder#readme",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "utf8": "^3.0.0"
+  }
+}

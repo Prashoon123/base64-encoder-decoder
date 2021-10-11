@@ -8,7 +8,7 @@ const base64 = {
     return base64Pkg.encode(bytes);
   },
   decode: (string) => {
-    const bytes = base64Pkg.encode(string);
+    const bytes = base64Pkg.decode(string);
 
     return utf8.decode(bytes);
   },

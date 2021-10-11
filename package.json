@@ -1,8 +1,9 @@
 {
   "name": "@prashoonb/base64-encoder-decoder",
-  "version": "1.0.0",
-  "description": "Helps to encode a string to base64 and decode a base64 string to normal string.",
+  "version": "1.0.3",
+  "description": "Helps to encode a string to base64 and decode a base64 string to a normal string.",
   "main": "index.js",
+  "types": "@types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
